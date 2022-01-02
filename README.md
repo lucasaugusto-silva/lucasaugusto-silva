@@ -1,6 +1,6 @@
 ### Seja Bem Vindo 👋
 
-- 🔭 Meu objetivo é trabalhar com Front-End.
+- 🔭 Atualmente trabalhando com Front-End.
 - 🌱 Estudando Javascript, ReactJs, Nodejs e Typescript.
 - 💬 Contate-me no email: lucas.augusto7969@gmail.com
 
