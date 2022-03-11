@@ -3,7 +3,7 @@
 - 🌱 Estudando Javascript, ReactJs, Nodejs e Typescript.
 - 💬 Contate-me no email: lucas.augusto7969@gmail.com
 
-<div style="display:flex; justify-content: center">
+<div align="center">
   <a href="https://github.com/lucasaugusto-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasaugusto-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaugusto-silva&layout=compact&langs_count=7&theme=dracula"/>
