@@ -1,7 +1,7 @@
-### Seja Bem Vindo 👋
+<center>### Seja Bem Vindo 👋
 
 - 🌱 Estudando Javascript, ReactJs, Nodejs e Typescript.
-- 💬 Contate-me no email: lucas.augusto7969@gmail.com
+- 💬 Contate-me no email: lucas.augusto7969@gmail.com</center>
 
 <div align="center">
   <a href="https://github.com/lucasaugusto-silva">
