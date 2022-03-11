@@ -1,7 +1,10 @@
-<center>### Seja Bem Vindo 👋
-
-- 🌱 Estudando Javascript, ReactJs, Nodejs e Typescript.
-- 💬 Contate-me no email: lucas.augusto7969@gmail.com</center>
+<div align="center">
+  <h1>SEJA BEM VINDO 👋</h1>                            
+  <ul>
+      <li>💻 Atualmente estudando e desenvolvendo em: Javascript, ReactJs, Nodejs, Typescript e Mongodb.</li>
+      <li>🎯 Objetivo: atuar em desenvolvimento full-stack</li>                                                    
+  </ul>                                                         
+</div>                     
 
 <div align="center">
   <a href="https://github.com/lucasaugusto-silva">
@@ -24,5 +27,6 @@
     <a href="https://www.linkedin.com/in/lucas-augusto-10348512b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucas.augusto7969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+  
   
 
