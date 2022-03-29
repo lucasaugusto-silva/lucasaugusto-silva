@@ -1,6 +1,6 @@
 <div align="center">
   <h1>SEJA BEM VINDO 👋</h1>                            
-  <p>💻 Atualmente estudando e desenvolvendo em: Javascript, ReactJs, Nodejs, Typescript e Mongodb.</p>
+  <p>💻 Atualmente estudando e desenvolvendo em: Javascript, ReactJs, Nodejs, Typescript, Mongodb e PostgreSql.</p>
   <p>🎯 Objetivo: atuar em desenvolvimento full-stack</p>                                                                                                                  
 </div>                     
 
