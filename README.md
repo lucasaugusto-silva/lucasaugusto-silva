@@ -1,6 +1,6 @@
-<div align="center">                          
+<div align="left">                          
   <p>💻 Currently studying and developing in: Javascript, ReactJs, Nodejs, Typescript, Mongodb, and PostgreSql.</p>
-  <p>🎯 Objective: To work in full-stack development</p>                                                                                                                  
+  <p>🎯 Objective: To work in full-stack development</p>                                                                                                               
 </div>                     
 
 <div align="center">
